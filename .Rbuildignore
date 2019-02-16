@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 batch.R
 autoUpdate.cmd
+autoReload.R

@@ -2,3 +2,4 @@
 .gitignore
 batch.R
 autoUpdate.cmd
+autoReload.R
