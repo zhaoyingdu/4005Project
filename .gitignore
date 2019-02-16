@@ -1,1 +1,4 @@
 .Rproj.user
+.gitignore
+batch.R
+autoUpdate.cmd
